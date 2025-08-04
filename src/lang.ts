@@ -321,7 +321,6 @@ export const localList: string[] = [
   'andskota',
   'arse*',
   'assrammer',
-  'ayir',
   'bi7ch',
   'bitch*',
   'bollock*',
